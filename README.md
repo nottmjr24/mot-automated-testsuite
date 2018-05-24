@@ -54,6 +54,7 @@ MOT:
 * **@smoke** = Smoke tests
 * **@cpms** = CPMS regression tests
 * **@elasticSearch = Elastic Search comparison test suite
+* **@accessibility** = Runs the AXE accessibility checks output to `target/accessibility`. Note you must run `npm install` first to install the necessary axe libraries.
 
 MOT History:
 * **@mothint** = MOT History regression tests on the INT Environment
